@@ -34,8 +34,8 @@ const cdn = {
 }
 
 module.exports = {
-    indexPath: "front-index.html",
-    publicPath: "/",
+    indexPath: "index.html",
+    publicPath: "/front",
     outputDir: "./dist/front",
     assetsDir: "static",
     productionSourceMap: false,
