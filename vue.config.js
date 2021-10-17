@@ -36,7 +36,7 @@ const cdn = {
 module.exports = {
     indexPath: "front-index.html",
     publicPath: "/",
-    outputDir: "./dist",
+    outputDir: "./dist/front",
     assetsDir: "static",
     productionSourceMap: false,
     transpileDependencies: [
